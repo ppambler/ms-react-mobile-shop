@@ -125,7 +125,7 @@ const products = [
     brand: "oppo",
     category: "电子产品",
     price: 5499,
-    countInStock: 15,
+    countInStock: 0,
     rating: 3.6,
     numReviews: 5,
   }
